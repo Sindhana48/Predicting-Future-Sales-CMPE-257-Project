@@ -10,7 +10,7 @@
   <li> LightGBM </li>
   <li> Neural Network </li>
   <li> LSTM </li>
-  <li> Catboost </li>
+ 
   
   
 ## Team Members:
