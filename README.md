@@ -4,7 +4,7 @@
 <p> Kaggle link : https://www.kaggle.com/c/competitive-data-science-predict-future-sales <p> 
 <p> We explored and analysed various Machine Learning models along with Deep Neural Networks to see which model gave the best RMSE value for the timeseries forecasting task.<p>
 
-## Models
+## Models:
   <li> XGBoost </li>
   <li> Naive Bayes </li>
   <li> LightGBM </li>
@@ -13,7 +13,7 @@
   <li> Catboost </li>
   
   
-## Team Members
+## Team Members:
   <li> Sindhana Krishnamurthy </li>
   <li> Qiong Wu </li>
   <li> Sandhya Santhanam </li>
